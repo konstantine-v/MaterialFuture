@@ -1,0 +1,14 @@
+#+TITLE: Hi! I'm MaterialFuture
+#+AUTHOR: MaterialFuture
+
+I'm a Full-Stack Developer that also specializes in Software Development and User Experience Research.
+
+** Some Things I Like
+- I Enjoy working with Crystal Lang to create new tools for myself and possibly others
+- Emacs is where I do almost anything that isn't browser-based
+- LaTeX and org-mode are what I use for anything document related, everything else is bloat
+- I advocate heavily for a more information/text focused web
+** Some Links
+- [[https://materialfuture.net][My Website]]
+- [[https://git.materialfuture.net/MaterialFuture][My Gitea Instance]]
+- [[https://www.codewars.com/users/materialfuture][CodeWars Account]]
