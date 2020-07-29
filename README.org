@@ -1,13 +1,17 @@
 #+TITLE: Hi! I'm MaterialFuture
 #+AUTHOR: MaterialFuture
-
 I'm a Full-Stack Developer that also specializes in Software Development and User Experience Research.
-
-** Some Things I Like
-- I Enjoy working with Crystal Lang to create new tools for myself and possibly others
+** Some Things About Myself
+- I Enjoy working with Crystal Lang to create new tools for myself and others
+- I enjoy working with Lisp, be it SBCL, elisp or guile
 - Emacs is where I do almost anything that isn't browser-based
-- LaTeX and org-mode are what I use for anything document related, everything else is bloat
+- LaTeX and org-mode are what I use for anything document related
+- I try and self-host a lot of my work
+  - I run a private Gitea instance where I publish all my code
+  - I host an email server that I use for people that know me personally
+  - I host a ZNC server to manage my IRC accounts
 - I advocate heavily for a more information/text focused web
+If you want to learn more about what I do then please visit my site that contains blog posts, wiki entries, and links to all my projects.
 ** Some Links
 - [[https://materialfuture.net][My Website]]
 - [[https://git.materialfuture.net/MaterialFuture][My Gitea Instance]]
