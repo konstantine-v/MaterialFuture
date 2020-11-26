@@ -1,22 +1,15 @@
 #+TITLE: Hi! I'm MaterialFuture
 #+AUTHOR: MaterialFuture
-I'm a person that works on Linux Systems, Full-Stack Sites, and User Experience Research.
-
-A computer is only as smart as the person using it
+I'm a SysAdmin, Musician that dabble in programming.
 ** Some Things About Myself
-- I enjoy working with Crystal Lang to create new tools for myself and others
-- I enjoy working with Lisps, be it SBCL Common Lisp, elisp or Clojure
+- I mainly write boring shell scripts
+- I enjoy working with Lisps, be it SBCL Common Lisp or elisp
 - Emacs is where I do almost anything that isn't browser-based
-- LaTeX and org-mode are what I use for anything document related
-- I try and self-host a lot of my work
-  - Private Gitea instance where I publish all my code
-  - An email server that I use for people that know me personally
-  - ZNC server to manage my IRC accounts
-  - Any test servers when working on SAAS projects
-- I advocate heavily for a more information/text focused web
-- Often I practice programming via [[https://git.materialfuture.net/MaterialFuture/common-lisp-practice/src/branch/master/challenges/1-4e][Practice Repositories]] or via [[https://www.codewars.com/users/materialfuture][CodeWars]]
+- Currently working on a fork of LARBS for people that like emacs
+- LaTeX and Org-Mode are what I use for anything document related
+- I advocate heavily for a more information/text focused web so less ads more actual content to read
 
-If you want to learn more about what I do then please visit my site that contains blog posts, wiki entries, and links to all my projects.
+If you want to learn more about what I do then just visit my site that contains blog posts, wiki entries, and links to all my projects.
 ** Some Links
 - [[https://materialfuture.net][My Website]]
 - [[https://git.materialfuture.net/MaterialFuture][Gitea Instance]]
