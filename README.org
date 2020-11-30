@@ -1,13 +1,13 @@
 #+TITLE: Hi! I'm MaterialFuture
 #+AUTHOR: MaterialFuture
-I'm a SysAdmin, Musician that dabble in programming.
+I'm a Linux SysAdmin that dabbles a bit in programming.
 ** Some Things About Myself
-- I mainly write boring shell scripts
-- I enjoy working with Lisps, be it SBCL Common Lisp or elisp
-- Emacs is where I do almost anything that isn't browser-based
-- Currently working on a fork of LARBS for people that like emacs
-- LaTeX and Org-Mode are what I use for anything document related
-- I advocate heavily for a more information/text focused web so less ads more actual content to read
+- I mainly write shell scripts
+- I enjoy working with Lisps, be it SBCL Common Lisp or EmacsLisp
+- Emacs is where I do almost anything that isn't specifically browser-based (although there is ~eww~)
+- Currently working on a fork of LARBS for Arch people that like emacs + StmpWM
+- LaTeX and Org-Mode are what I use for anything document related (No GROFF/TROFF here)
+- I advocate heavily for a more information/text focused web so less ads more actual content to read - a la Gemini/Gopher protocols
 
 If you want to learn more about what I do then just visit my site that contains blog posts, wiki entries, and links to all my projects.
 ** Some Links
