@@ -1,12 +1,11 @@
 #+TITLE: Hi! I'm MaterialFuture
 #+AUTHOR: MaterialFuture
-I'm a Software Developer, UX Researcher, and enjoy working with Linux Systems.
+I'm a Software Developer, Dev-Ops Engineer, and Linux Systems Administrator.
 ** Some Things About Myself
 - I write shell scripts a lot
-- I enjoy working with Lisps, be it SBCL Common Lisp, EmacsLisp, or Chicken Scheme
-- Emacs is where I do almost anything that isn't specifically browser-based (although there is ~eww~ for those things)
+- I enjoy working with Lisps, be it Clojure or Common Lisp
+- Emacs is where I live
 - LaTeX and Org-Mode are what I use for anything document related
-- I advocate heavily for a more information/text focused web so less ads and more content
 
 If you want to learn more about what I do then just visit my site that contains blog posts, wiki entries, and links to all my projects.
 ** Some Links
